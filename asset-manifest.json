@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Digital-postcard-app/static/css/main.37a51480.css",
+    "main.js": "/Digital-postcard-app/static/js/main.e3578a86.js",
+    "index.html": "/Digital-postcard-app/index.html",
+    "main.37a51480.css.map": "/Digital-postcard-app/static/css/main.37a51480.css.map",
+    "main.e3578a86.js.map": "/Digital-postcard-app/static/js/main.e3578a86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a51480.css",
+    "static/js/main.e3578a86.js"
+  ]
+}
